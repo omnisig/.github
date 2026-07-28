@@ -50,7 +50,3 @@ wasn't altered in between? That gap is where omnisig starts.
 - **One signing surface.** Fewer multisigs, fewer nonces, fewer ways to be tricked.
 - **Composable, not monolithic.** Each piece (provenance, execution, tooling) stands
   alone and is useful on its own.
-
-<div align="center">
-<sub>Ethereum diamond = the hub · spokes = control radiating out · ring of nodes = any chain</sub>
-</div>
