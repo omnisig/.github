@@ -50,3 +50,8 @@ wasn't altered in between? That gap is where xsafe starts.
 - **One signing surface.** Fewer multisigs, fewer nonces, fewer ways to be tricked.
 - **Composable, not monolithic.** Each piece (provenance, execution, tooling) stands
   alone and is useful on its own.
+
+## Status
+
+Early. The verification layer is public and working; the routing layer is in
+development. Issues and questions are welcome on any repo above.
