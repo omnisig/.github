@@ -1,6 +1,6 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="omnisig">
-  <title>omnisig</title>
-  <!-- omni-ring: the network of destination chains -->
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="xsafe">
+  <title>xsafe</title>
+  <!-- chain ring: the network of destination chains -->
   <path d="M214 128 L171 202.48 L85 202.48 L42 128 L85 53.52 L171 53.52 Z"
         fill="none" stroke="#94A3B8" stroke-width="2" stroke-opacity="0.6" stroke-linejoin="round"/>
 

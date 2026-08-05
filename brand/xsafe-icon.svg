@@ -1,5 +1,5 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="omnisig">
-  <title>omnisig</title>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="xsafe">
+  <title>xsafe</title>
   <defs>
     <radialGradient id="glow" cx="50%" cy="46%" r="55%">
       <stop offset="0%" stop-color="#8B7CF6" stop-opacity="0.55"/>
@@ -16,7 +16,7 @@
   <rect x="0" y="0" width="256" height="256" rx="60" fill="url(#bg)"/>
   <circle cx="128" cy="120" r="96" fill="url(#glow)"/>
 
-  <!-- omni-ring: the network of destination chains -->
+  <!-- chain ring: the network of destination chains -->
   <path d="M214 128 L171 202.48 L85 202.48 L42 128 L85 53.52 L171 53.52 Z"
         fill="none" stroke="#3C4373" stroke-width="2" stroke-opacity="0.55" stroke-linejoin="round"/>
 
