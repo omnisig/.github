@@ -1,21 +1,21 @@
-# omnisig — brand mark
+# xsafe — brand mark
 
 The icon expresses the core thesis: **a single Ethereum multisig (the signing hub)
 controls operations on any destination chain.**
 
 - **Center — Ethereum diamond:** the one signing hub. Where authority lives.
 - **Spokes:** control radiating outward from that hub to every chain.
-- **Six nodes + hexagon ring:** the network of destination chains ("omni"). Uniform
+- **Six nodes + hexagon ring:** the network of destination chains. Uniform
   and interchangeable — *any* chain.
 
 ## Files
 
 | File | Use |
 |------|-----|
-| `omnisig-icon.svg` | Primary avatar mark on a dark rounded tile (source of truth) |
-| `omnisig-mark.svg` | Transparent mark, mid-tones — for light or dark backgrounds |
-| `omnisig-icon-{256,400,512}.png` | Rasterized avatar (upload one of these to GitHub) |
-| `omnisig-mark-512.png` | Rasterized transparent mark |
+| `xsafe-icon.svg` | Primary avatar mark on a dark rounded tile (source of truth) |
+| `xsafe-mark.svg` | Transparent mark, mid-tones — for light or dark backgrounds |
+| `xsafe-icon-{256,400,512}.png` | Rasterized avatar (upload one of these to GitHub) |
+| `xsafe-mark-512.png` | Rasterized transparent mark |
 
 ## Palette
 
@@ -33,13 +33,13 @@ controls operations on any destination chain.**
 
 GitHub avatars are UI-only and must be raster (PNG/JPG):
 
-1. Go to **https://github.com/organizations/omnisig/settings/profile**
+1. Go to **https://github.com/organizations/xsafe/settings/profile**
 2. Under **Profile picture**, click **Upload a picture…**
-3. Choose `omnisig-icon-512.png`, position, and save.
+3. Choose `xsafe-icon-512.png`, position, and save.
 
 ## Regenerating PNGs
 
 ```bash
 pip install cairosvg
-python3 -c "import cairosvg; cairosvg.svg2png(url='omnisig-icon.svg', write_to='omnisig-icon-512.png', output_width=512, output_height=512)"
+python3 -c "import cairosvg; cairosvg.svg2png(url='xsafe-icon.svg', write_to='xsafe-icon-512.png', output_width=512, output_height=512)"
 ```
