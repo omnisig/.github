@@ -1,5 +1,5 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="xsafe">
-  <title>xsafe</title>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="crossecute">
+  <title>crossecute</title>
   <!-- chain ring: the network of destination chains -->
   <path d="M214 128 L171 202.48 L85 202.48 L42 128 L85 53.52 L171 53.52 Z"
         fill="none" stroke="#94A3B8" stroke-width="2" stroke-opacity="0.6" stroke-linejoin="round"/>
@@ -24,7 +24,7 @@
     <circle cx="171" cy="53.52" r="11"/>
   </g>
 
-  <!-- Ethereum diamond: the single signing hub -->
+  <!-- the signing hub: an Ethereum diamond, the expected anchor -->
   <g>
     <polygon points="128,78 128,136 98,136"  fill="#A78BFA"/>
     <polygon points="128,78 158,136 128,136" fill="#8B5CF6"/>

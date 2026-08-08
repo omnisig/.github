@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/crossecute/.github/main/brand/xsafe-icon-512.png" width="128" alt="xsafe" />
+<img src="https://raw.githubusercontent.com/crossecute/.github/main/brand/crossecute-icon-512.png" width="128" alt="crossecute" />
 
-# xsafe
+# crossecute
 
 **One multisig, on the chain you trust. Control on every other.**
 
@@ -16,7 +16,7 @@ Multichain protocols end up with a governance mess: a separate multisig on every
 chain, each with its own signers, nonces, and signing rituals. Every extra signing
 surface is another place to get phished, fat-finger a payload, or lose quorum.
 
-**xsafe collapses that to one signing hub.** A single [Safe](https://safe.global)
+**crossecute collapses that to one signing hub.** A single [Safe](https://safe.global)
 is the source of authority; its approved actions are carried to any destination
 chain and executed there. You sign once, on the chain you trust most — operations
 land everywhere.
@@ -38,7 +38,7 @@ flowchart LR
 The hard part isn't the messaging — it's **trust in what you sign**. If an operator
 builds a transaction with a script in one repo and submits it to the Safe in another,
 how does a signer know the thing in the queue is exactly what the script produced, and
-wasn't altered in between? That gap is where xsafe starts.
+wasn't altered in between? That gap is where crossecute starts.
 
 ## Building blocks
 

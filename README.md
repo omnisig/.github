@@ -1,13 +1,13 @@
 # .github
 
-Organization-level defaults and brand assets for **xsafe**.
+Organization-level defaults and brand assets for **crossecute**.
 
-> **xsafe** — one Ethereum multisig, control on any destination chain.
+> **crossecute** — one multisig, on the chain you trust. Control on every other.
 
 ## Contents
 
-- [`brand/`](brand/) — the xsafe icon (SVG source + rasterized PNGs), palette, and
+- [`brand/`](brand/) — the crossecute icon (SVG source + rasterized PNGs), palette, and
   usage. See [`brand/README.md`](brand/README.md).
 
-To use the mark as the org avatar, upload `brand/xsafe-icon-512.png` at
+To use the mark as the org avatar, upload `brand/crossecute-icon-512.png` at
 **Settings → Profile → Profile picture** (avatars are upload-only).
