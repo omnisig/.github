@@ -33,7 +33,7 @@ controls operations on any destination chain.**
 
 GitHub avatars are UI-only and must be raster (PNG/JPG):
 
-1. Go to **https://github.com/organizations/xsafe/settings/profile**
+1. Go to **https://github.com/organizations/crossecute/settings/profile**
 2. Under **Profile picture**, click **Upload a picture…**
 3. Choose `xsafe-icon-512.png`, position, and save.
 

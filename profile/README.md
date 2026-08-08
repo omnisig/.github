@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/xsafe/.github/main/brand/xsafe-icon-512.png" width="128" alt="xsafe" />
+<img src="https://raw.githubusercontent.com/crossecute/.github/main/brand/xsafe-icon-512.png" width="128" alt="xsafe" />
 
 # xsafe
 
@@ -39,8 +39,8 @@ wasn't altered in between? That gap is where xsafe starts.
 
 | Repo | What it does | Status |
 |------|--------------|--------|
-| [**forge-attest**](https://github.com/xsafe/forge-attest) | Proves a submitted Safe transaction is byte-for-byte the output of a specific Forge script, at a pinned commit — reproduced, hashed three independent ways, and checked against the live Safe queue. | ✅ Available |
-| [**forge-attest-example-safe-ops**](https://github.com/xsafe/forge-attest-example-safe-ops) | Reference "producer" repo: a deterministic Forge script that builds a Safe tx, verified by forge-attest. | ✅ Available |
+| [**forge-attest**](https://github.com/crossecute/forge-attest) | Proves a submitted Safe transaction is byte-for-byte the output of a specific Forge script, at a pinned commit — reproduced, hashed three independent ways, and checked against the live Safe queue. | ✅ Available |
+| [**forge-attest-example-safe-ops**](https://github.com/crossecute/forge-attest-example-safe-ops) | Reference "producer" repo: a deterministic Forge script that builds a Safe tx, verified by forge-attest. | ✅ Available |
 | Cross-chain executor | Home-chain Safe → destination-chain execution over a messaging layer. | 🚧 In progress |
 
 ## Principles
